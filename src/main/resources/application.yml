@@ -1,0 +1,6 @@
+server:
+  port: 8989
+  context-path: /api
+#spring:
+#  main:
+#    web-application-type: none
